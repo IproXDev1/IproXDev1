@@ -43,7 +43,7 @@ Un outil efficace pour gérer les stocks et les codes-barres avec simplicité.
 ---
 
 ## 📬 **Me Contacter**
-💬 **Discord** : IproXDev#1234  
+💬 **Discord** : iprogams_off 
 📧 **Email** : ipro.tech.serveur@gmail.com 
 🌐 **Site web** : [ipro-tech.fr](https://ipro-tech.fr)  
 
@@ -98,7 +98,7 @@ An efficient tool to manage inventory and barcodes with ease.
 ---
 
 ## 📬 **Contact Me**
-💬 **Discord**: IproXDev#1234  
+💬 **Discord**: iprogams_off 
 📧 **Email**: ipro.tech.serveur@gmail.com  
 🌐 **Website**: [ipro-tech.fr](https://ipro-tech.fr)  
 
