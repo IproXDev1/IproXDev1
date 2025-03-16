@@ -99,8 +99,8 @@ An efficient tool to manage inventory and barcodes with ease.
 
 ## 📬 **Contact Me**
 💬 **Discord**: IproXDev#1234  
-📧 **Email**: contact@ipro-tech.com  
-🌐 **Website**: [ipro-tech.com](https://ipro-tech.com)  
+📧 **Email**: ipro.tech.serveur@gmail.com  
+🌐 **Website**: [ipro-tech.fr](https://ipro-tech.fr)  
 
 ---
 
